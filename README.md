@@ -1,2 +1,4 @@
 # FocSimulinkModel
-FOC的Simulink模型，可用于MBD开发
+
+FOC的Simulink模型，可用于MBD开发 包含多种观测器的Simulink算法验证模型和Simulink代码生成模型 方便进行电机控制的算法验证，以及能够加快对电机控制算法的理解和电机算法的调试 同时提供的代码生成模型和移植教程可用于算法验证之后的部署阶段，可用于快速开发部署
+
